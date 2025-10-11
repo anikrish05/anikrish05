@@ -46,7 +46,8 @@ VP of Engineering, leading cross-functional teams to deliver web/mobile apps for
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/AniKrish)  
-- ✉️ kris.anirudh@gmail.com  
+- ✉️ kris.anirudh@gmail.com
+- 🖥️ anikrish.dev
 
 ---
 

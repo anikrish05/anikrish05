@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Anirudh Krishna  
 
-🎓 **Computer Science @ UC Santa Cruz** (B.S. ‘27, GPA: 3.96)  
+🎓 **Computer Science @ UC Santa Cruz** (B.S. ‘27)  
 🚀 **Founding Engineer / CTO @ [Pearson Labs (YC F24)](https://www.ycombinator.com/companies/pearson-labs)**  
 🧠 **AI | Systems | Full-Stack | DevOps**
 
@@ -47,7 +47,6 @@ VP of Engineering, leading cross-functional teams to deliver web/mobile apps for
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/AniKrish)  
 - ✉️ kris.anirudh@gmail.com  
-- 🌐 [pearsonlabs.ai](https://pearsonlabs.ai)  
 
 ---
 

@@ -2,7 +2,7 @@
 
 🎓 **Computer Science @ UC Santa Cruz** (B.S. ‘27)  
 🚀 **Founding Engineer @ [Pearson Labs (YC F24)](https://www.ycombinator.com/companies/pearson-labs)**  
-🧠 **AI | Systems | Full-Stack | DevOps**
+🧠 **AI | Systems | Full-Stack | Mobile | DevOps**
 
 ---
 

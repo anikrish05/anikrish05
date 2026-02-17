@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Anirudh Krishna  
 
-🎓 **Computer Science @ UC Santa Cruz** (B.S. ‘27)  
+🎓 **Computer Science @ UC Santa Cruz** (B.S. ‘26)  
 🚀 **Founding Engineer @ [Pearson Labs (YC F24)](https://www.ycombinator.com/companies/pearson-labs)**  
 🧠 **AI | Systems | Full-Stack | Mobile | DevOps**
 

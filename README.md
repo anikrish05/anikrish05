@@ -1,6 +1,6 @@
 # Anirudh Krishna
 
-I’m a software engineer interested in AI infrastructure and distributed systems. I’ve worked on legal document software at Pearson Labs and Android features at Google.
+I build AI agents, agent harnesses, and the infrastructure behind them. I move fast across the stack, from testing an idea to getting it into production. Previously a founding engineer at Pearson Labs (YC F24) and a software engineering intern at Google.
 
 [Website](https://www.anikrish.dev) · [LinkedIn](https://www.linkedin.com/in/AniKrish) · [Email](mailto:kris.anirudh@gmail.com)
 

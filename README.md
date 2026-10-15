@@ -1,45 +1,42 @@
-# 👋 Hey, I'm Anirudh Krishna  
+# Hey, I'm Anirudh Krishna
 
-🎓 **Computer Science @ UC Santa Cruz** (B.S. ‘26)  
-🚀 **Founding Engineer @ [Pearson Labs (YC F24)](https://www.ycombinator.com/companies/pearson-labs) | Google SWE**  
-🧠 **AI | Systems | Full-Stack | Mobile | DevOps**
+I'm a software engineer focused on **AI systems, backend infrastructure, and product engineering**.
 
----
+I was an early/founding engineer at **[Pearson Labs (YC F24)](https://www.ycombinator.com/companies/pearson-labs)**, where I helped build the company from 0 → ~$5M ARR and grew with the engineering team from the earliest stages. More recently, I worked as a **Software Engineer Intern at Google** on Devices & Platforms, building features for Pixel.
 
-### 🧩 About Me  
-I’m an engineer who loves **building intelligent systems** that actually ship — from scalable AI pipelines to production-grade web and mobile apps.  
-At **Pearson Labs**, I lead the engineering of an **AI-powered Dropbox for legal teams**, reducing delivery costs by 40–60% through RAG pipelines, multi-region sharding, and real-time document automation.  
+I graduated from **UC Santa Cruz with a B.S. in Computer Science in 2026**.
 
-Beyond that, I’ve built and deployed across domains — **e-commerce, GenAI, and developer tooling** — always focused on combining reliability, speed, and good design.
+Most of the work I enjoy sits somewhere between **distributed systems, AI infrastructure, agents, and product** — especially problems where the system has to actually work reliably in production.
 
----
+### Some things I've worked on
 
-### 🧠 What I Work With
-**Languages:** Python, C, C++, TypeScript, Dart, Java, SQL  
-**Frameworks:** Next.js, React, FastAPI, Flutter, Node.js, LangChain  
-**DevOps:** AWS (Lambda, EC2, S3), GCP, Firebase, Supabase, Docker, Kubernetes, Terraform, Hatchet, Railway  
-**AI:** RAG, OpenAI Realtime & Assistants API, NLP, Vector DBs, GraphRAG  
+**Pearson Labs — Founding Engineer**  
+Built and owned production systems across the stack, including AI agents for document workflows, backend services, data pipelines, job infrastructure, RBAC, audit systems, and customer-facing product. Helped scale the company from 0 to ~$5M ARR and the engineering team to 6.
 
----
+**Google — Software Engineer Intern, Devices & Platforms**  
+Worked on Android/Pixel features in Kotlin, including on-device experiences integrating Gemini-powered functionality.
 
-### 🧱 Notable Projects
-#### 🧾 Pearson Labs (YC F24)
-AI-powered legal document platform supporting 100K+ uploads with <5s end-to-end latency, built with ETL pipelines, audit logs, and RBAC.
+**Agent & AI Infrastructure**  
+I've spent a lot of time working on agent orchestration, evals, RAG/document processing, structured generation, long-running jobs, and the infrastructure needed to make these systems reliable.
 
-#### 💡 NeuroFlow
-AI DevOps agent that monitors CI/CD pipelines, detects failed merges, and provides automated remediation using FastAPI + Jira integration.
+### Tools I use
 
-#### 🛒 Shastha Fresh
-Full-stack e-commerce platform built with React Native + Next.js, integrated with Stripe and Firebase, tripling store revenue.
+**Languages:** Python, TypeScript, Kotlin, Java, C/C++, SQL  
+**Backend:** FastAPI, Node.js, PostgreSQL, Supabase, Prisma  
+**Infra:** Docker, Kubernetes, AWS, GCP, Railway, Hatchet, Terraform  
+**Frontend / Mobile:** Next.js, React, Jetpack Compose, Flutter  
+**AI:** LLM agents, RAG, evals, vector search, multimodal systems
 
+### What I'm interested in
 
----
+Right now I'm especially interested in:
 
-### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/AniKrish)  
-- ✉️ kris.anirudh@gmail.com
-- 🖥️ www.anikrish.dev
+- AI infrastructure and agent systems
+- RL environments, evals, and post-training infrastructure
+- Distributed backend systems
+- Developer tools
+- Building ambitious 0 → 1 products
 
----
+### Find me
 
-⭐ **“Build it. Ship it. Scale it.”**  
+[LinkedIn](https://www.linkedin.com/in/AniKrish) · [anikrish.dev](http://www.anikrish.dev) · kris.anirudh@gmail.com

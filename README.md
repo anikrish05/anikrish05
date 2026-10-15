@@ -32,15 +32,6 @@ AI DevOps agent that monitors CI/CD pipelines, detects failed merges, and provid
 #### 🛒 Shastha Fresh
 Full-stack e-commerce platform built with React Native + Next.js, integrated with Stripe and Firebase, tripling store revenue.
 
-#### 🧰 Blueprint @ UCSC
-VP of Engineering, leading cross-functional teams to deliver web/mobile apps for nonprofits using React Native, Firebase, and AWS RDS.
-
----
-
-### 🧭 What I’m Learning
-- Low-latency model serving and edge inference  
-- Multi-agent orchestration with MCP servers  
-- AI evaluation pipelines for RAG and agentic systems  
 
 ---
 
